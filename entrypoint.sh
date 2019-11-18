@@ -1,6 +1,6 @@
 #! /bin/bash
 if [[ -z "${UUID}" ]]; then
-  UUID="4890bd47-5180-4b1c-9a5d-3ef686543112"
+  UUID="f42e62b1-9f2e-4513-b8dd-239becfe4ebe"
 fi
 
 if [[ -z "${AlterID}" ]]; then
@@ -8,7 +8,7 @@ if [[ -z "${AlterID}" ]]; then
 fi
 
 if [[ -z "${V2_Path}" ]]; then
-  V2_Path="/FreeApp"
+  V2_Path="/FuckApp"
 fi
 
 if [[ -z "${V2_QR_Path}" ]]; then
